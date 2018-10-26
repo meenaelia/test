@@ -8,7 +8,7 @@ public class test1 {
 @Test
 public void testcase1(){
 
-	Assert.assertTrue(true);
+	Assert.assertTrue(false);
 }
 
 }

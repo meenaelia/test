@@ -9,6 +9,6 @@ public class test {
 	public void testRegestraion()
 	{
 	
-		Assert.assertTrue(true);
+		Assert.assertTrue(false);
 }
 }
