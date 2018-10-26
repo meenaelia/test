@@ -117,7 +117,7 @@
           <inherited>true</inherited>
           <configuration>
           <suiteXmlFiles>
-          <suiteXmlFile>src/test/resources/TestRunners/testng.xml</suiteXmlFile>
+          <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
           </configuration>
     </plugin>
